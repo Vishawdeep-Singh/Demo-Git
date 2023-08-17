@@ -1,2 +1,2 @@
 # Demo-Git
-This is Demo
+This is Demo.
